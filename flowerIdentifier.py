@@ -1,6 +1,6 @@
-#this program is not intended to offend anyone in ways of generalizing their sexual orenatation
-#it is purely a practice program
-#this program is a fail cuz I dont have enough training data
+#copyright reserved to its owner
+#ABC license
+#do not infringe or sell
 import random
 from random import randint as rd
 import math
